@@ -50,4 +50,4 @@ The sorter will now start automatically when you log in and run silently in the 
 
 ## Log File
 
-The script writes status and error messages to `sorter_log.txt`. This file is located in the same directory as the `download_sorter.exe` file (e.g., `C:\Users\Pipe\Documents\autosortdownloads\dist\sorter_log.txt`). Check this file if you need to see what the script is doing or troubleshoot issues.
+The script writes status and error messages to `sorter_log.txt`. This file is located in the same directory as the `download_sorter.exe` file. Check this file if you need to see what the script is doing or troubleshoot issues.
